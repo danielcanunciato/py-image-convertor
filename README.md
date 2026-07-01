@@ -2,7 +2,7 @@
 Simple code to convert anything to any file extension for free.
 
 Steps to use.
-1. Run the **.bat** file
+1. Run the **.exe** file
 2. Copy the image path (you can include or not the quotation marks)
 3. It'll ask for a extension, you can type in the extension file (**ex:** pdf)
 
